@@ -1,0 +1,12 @@
+/* 
+Theme Name: sambalsports.com child theme of storefront
+Version: 1.0 
+Author: Sam Stoelinga
+Author URI: https://sambalsports.com
+Template: storefront
+*/
+
+body.woocommerce #primary {
+	float: none;
+	width: 100%;
+}
